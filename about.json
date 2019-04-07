@@ -1,7 +1,7 @@
 {
     "name": "Custom icons for Discourse",
-    "about_url": "Theme about url",
-    "license_url": "Theme license url",
+    "license_url": "https://github.com/torstensson/Discourse-custom-icons/blob/master/LICENSE",
+    "about_url": "https://github.com/torstensson/Discourse-custom-icons/blob/master/README.md",
      "assets": {
           "tgc-sjalvtest": "assets/tgc-sjalvtest.svg",
           "tgc-spelstopp": "assets/tgc-spelstopp.svg"
