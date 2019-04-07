@@ -4,7 +4,7 @@
     "about_url": "https://github.com/torstensson/Discourse-custom-icons/blob/master/README.md",
     "component": true,
     "assets": {
-          "tgc-sjalvtest": "assets/tgc-sjalvtest.svg",
-          "tgc-spelstopp": "assets/tgc-spelstopp.svg"
+          "tgc-sjalvtest": "/assets/tgc-sjalvtest.svg",
+          "tgc-spelstopp": "/assets/tgc-spelstopp.svg"
      }
   }
