@@ -1,0 +1,4 @@
+svg_icons: 
+  default: 'tgc-sjalvtest|tgc-spelstopp'
+  type: 'list'
+  list_type: 'compact'
