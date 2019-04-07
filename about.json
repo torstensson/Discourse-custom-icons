@@ -1,0 +1,9 @@
+{
+    "name": "Custom icons for Discourse",
+    "about_url": "Theme about url",
+    "license_url": "Theme license url",
+     "assets": {
+          "tgc-sjalvtest": "assets/tgc-sjalvtest.svg",
+          "tgc-spelstopp": "assets/tgc-spelstopp.svg"
+     }
+  }

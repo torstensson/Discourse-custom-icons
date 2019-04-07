@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="43px" viewBox="0 0 44 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>spelstopp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Categories" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="spelstopp" fill-rule="nonzero">
+            <path d="M43.3,21.8 C43.3,33.5 33.8,43 22,43 C10.3,43 0.7,33.5 0.7,21.7 C0.8,10 10.3,0.5 22,0.5 C33.8,0.5 43.3,10 43.3,21.8 Z" id="Shape" fill="#E20D18"></path>
+            <path d="M18.7,32.5 L12.5,32.5 C12,32.5 11.6,32.1 11.6,31.6 L11.6,11.9 C11.6,11.4 12,11 12.5,11 L18.7,11 C19.2,11 19.6,11.4 19.6,11.9 L19.6,31.6 C19.6,32.1 19.2,32.5 18.7,32.5 Z" id="Shape" fill="#FFFFFF"></path>
+            <path d="M31.5,32.6 L25.3,32.6 C24.8,32.6 24.4,32.2 24.4,31.7 L24.4,11.9 C24.4,11.4 24.8,11 25.3,11 L31.5,11 C32,11 32.4,11.4 32.4,11.9 L32.4,31.6 C32.4,32.2 32,32.6 31.5,32.6 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
